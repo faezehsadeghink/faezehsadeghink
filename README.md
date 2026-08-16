@@ -95,10 +95,9 @@ Two foundational C++ projects: an arbitrary-length integer calculator and a term
 
 ## Current Focus
 
-- Machine learning for predicting GRACE terrestrial water-storage anomalies
+- Machine learning for predicting GRACE water-storage anomalies
 - Deep learning for Earth-observation imagery
 - Change detection and satellite-image processing
-- Reproducible remote-sensing workflows
 
 ## Contact
 
@@ -106,6 +105,7 @@ You can follow my work or connect with me through:
 
 - GitHub: [@faezehsadeghink](https://github.com/faezehsadeghink)
 - LinkedIn: [Faezeh Sadeghi](https://linkedin.com/in/faezeh-sadeghi-2256a5288)
+- Email: faezeh.sadeghi99@ut.ac.ir
 
 ---
 
