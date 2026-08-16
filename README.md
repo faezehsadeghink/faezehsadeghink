@@ -17,20 +17,20 @@
 
 I am a **Remote Sensing M.Sc. student at the University of Tehran**, interested in using satellite observations to study environmental and Earth-surface processes.
 
-My research interests include machine learning and deep learning for Earth observation, satellite image processing, change detection, satellite hydrology, and large-scale geospatial data analysis. My current research focuses on applying machine learning to predict **GRACE terrestrial water-storage anomalies**.
+My research interests include machine learning and deep learning for Earth observation, satellite image processing, change detection, satellite hydrology, and large-scale geospatial data analysis. My current research focuses on applying machine learning to predict **GRACE water-storage anomalies**.
 
 Through my academic projects, I have worked with optical and SAR satellite imagery on topics such as land-cover classification, land-surface temperature, geometric correction and orthorectification, InSAR-based land-subsidence analysis, and web-based visualization of spatial data.
 
 ## Research Interests
 
-- Remote Sensing and Earth Observation
+- Remote Sensing and GIS
 - Machine Learning and Deep Learning for Earth Observation
 - Satellite Image Processing
 - Satellite Hydrology and GRACE Data
 - Change Detection
 - SAR Interferometry and Land-Subsidence Monitoring
 - Large-Scale Geospatial Data Processing
-- Spatial Data Science
+
 
 ## Tools & Technologies
 
