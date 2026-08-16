@@ -50,7 +50,7 @@ Through my academic projects, I have worked with optical and SAR satellite image
 ![Global Mapper](https://img.shields.io/badge/Global%20Mapper-376B44?style=flat-square)
 ![Agisoft Metashape](https://img.shields.io/badge/Agisoft%20Metashape-5D6D7E?style=flat-square)
 
-### Web Visualization & Spatial Databases
+### Web Visualization & Databases
 
 ![GeoServer](https://img.shields.io/badge/GeoServer-4F9B45?style=flat-square)
 ![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
@@ -111,6 +111,5 @@ You can follow my work or connect with me through:
 
 <div align="center">
 
-*More remote-sensing, Earth-observation, and image-processing projects are coming soon.*
 
 </div>
