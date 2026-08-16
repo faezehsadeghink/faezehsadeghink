@@ -87,11 +87,6 @@ Landsat 9 analysis covering spectral indices, emissivity and land-surface temper
 
 ---
 
-### 💻 [C++ Console Projects](https://github.com/faezehsadeghink/cpp-console-projects)
-
-Two foundational C++ projects: an arbitrary-length integer calculator and a terminal-based Pac-Man game with multiple maps, ghosts, scoring, and difficulty modes.
-
-`C++17` `Algorithms` `Console Game` `CMake` `Big Integer`
 
 ## Current Focus
 
